@@ -26,3 +26,4 @@ print("Найдено e-mail адресов:",len(link_list_1))
 print("\n")
 for link_it in range(len(link_list_1)):
     print(link_list_1[link_it])
+print("\n")
